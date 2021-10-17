@@ -70,3 +70,6 @@ venv.bak/
 
 # editor / ide
 .idea/
+
+
+db.sqlite3
